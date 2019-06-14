@@ -55,3 +55,5 @@
 - Prendre des exemples dans le core magento, module contact ou catalog par exemple
 - Ressources web js css images dans module/view/web ou projet/lib
 - web/app/design/frontend/nommodule
+- La surcharge se fait soit par plugin, soit par preference
+- Présence du dispatcher symfony : modèle observer

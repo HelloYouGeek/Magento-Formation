@@ -1,6 +1,6 @@
-#Formation Magento
+# Formation Magento
 
-##Conseil et info
+## Conseil et info
 
 - Priviligier linux. Magento limité sur Windows et Mac
 - Il existe deux versions Communautaire ou Enterprise
@@ -57,3 +57,7 @@
 - web/app/design/frontend/nommodule
 - La surcharge se fait soit par plugin, soit par preference
 - Présence du dispatcher symfony : modèle observer
+
+## Les tutos
+https://www.pierrefay.fr/formation-magento2.html
+https://www.mageplaza.com/magento-2-module-development/

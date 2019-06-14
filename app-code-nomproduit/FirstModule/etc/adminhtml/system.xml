@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="louiseconfig" translate="label" sortOrder="15">
+            <label>Louise Config</label>
+        </tab>
+        <section id="louisefirstmodule" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Louise - Module</label>
+            <tab>louiseconfig</tab>
+            <resource>Louise_FirstModule::configuration</resource>
+            <group id="general" translate="label" type="text" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Options 1</label>
+                <field id="option" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
+                    <label>Option text</label>
+                    <comment>Ceci est un texte</comment>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

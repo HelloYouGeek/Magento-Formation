@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beb3d242-6c90-4aa9-a3fe-4952b78aad14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dress_codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="300005005">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="csv" value="2" />
+          <entry key="html" value="1" />
+          <entry key="json" value="1" />
+          <entry key="log" value="21" />
+          <entry key="php" value="170" />
+          <entry key="phtml" value="25" />
+          <entry key="xml" value="142" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANSI Aware" value="21" />
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="195" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="142" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="74" />
+          <entry key="csv" value="62" />
+          <entry key="dummy" value="16" />
+          <entry key="log" value="9" />
+          <entry key="php" value="2736" />
+          <entry key="phtml" value="1054" />
+          <entry key="txt" value="34" />
+          <entry key="xml" value="1314" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANSI Aware" value="9" />
+          <entry key="CSS" value="74" />
+          <entry key="PHP" value="3790" />
+          <entry key="PLAIN_TEXT" value="112" />
+          <entry key="XML" value="1314" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1055107179">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Louise\FirstModule\Block\Template\Context</find>
+      <find>templat</find>
+      <find>templ</find>
+      <find>escapeHtmlAttr</find>
+      <find>_getData</find>
+      <find>gettit</find>
+      <find>title</find>
+      <find>getide</find>
+      <find>getid</find>
+      <find>ObjetInterface</find>
+      <find>getcontent</find>
+      <find>getconten</find>
+      <find>pagerepos</find>
+      <find>setcont</find>
+      <find>objetFactory</find>
+      <find>pagefacto</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Louise/FirstModule/Controller/Listing/Index.php" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/vendor/magento/module-contact/Block/ContactForm.php" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/DressCodes/Module/Block/Listing.php" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/DressCodes/Module/Controller/Listing/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Model/ResourceModel/Objet.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/db_schema.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/view/frontend/templates/test/form.phtml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/var/log/system.log" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Form/Post.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Model/ResourceModel/Objet/Collection.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Plugin/MonObjet.php" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/Louise/FirstModule/Model/Rewrite/Page.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Model/Rewrite/Page.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/frontend/di.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/Api/ObjetInterface.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/di.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/Api/Data/ObjetInterface.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Api/ObjetRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Model/Objet.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Model/ObjetRepository.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/acl.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/webapi.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/DressCodes/Module/etc/config.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/config.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/adminhtml/system.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/Block/CreateObject.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Listing/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Block/ProductList.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/adminhtml/routes.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Adminhtml/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Adminhtml/LouiseAdmin/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/etc/adminhtml/menu.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/var/log/exception.log" />
+        <option value="$PROJECT_DIR$/FirstModule/Controller/Adminhtml/Myadmin/Index.php" />
+        <option value="$PROJECT_DIR$/FirstModule/view/adminhtml/layout/louisemodule_myadmin_index.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/view/web/css/louise_module_general.css" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/registration.php" />
+        <option value="$PROJECT_DIR$/FirstModule/view/frontend/layout/louisemodule_listing_index.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/theme.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Louise_FirstModule/web/louise_module_custom.css" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Louise_FirstModule/layout/louisemodule_listing_index.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Magento_Theme/layout/default.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Magento_Theme/web/custom_louise.css" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/DressCodes/Module/view/adminhtml/layout/dresscodesadminformation_listing_index.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Magento_Catalog/layout/default.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/code/Louise/FirstModule/view/frontend/layout/louisemodule_listing_index.xml" />
+        <option value="&lt;e7180758-d6a1-4bdb-9746-93801050265c&gt;/web/app/design/frontend/Louise/test/Magento_Catalog/layout/catalog_category_view.xml" />
+        <option value="$PROJECT_DIR$/FirstModule/i18n/fr_FR.csv" />
+        <option value="$PROJECT_DIR$/FirstModule/view/frontend/templates/test/page.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="867" />
+    <option name="y" value="-9" />
+    <option name="width" value="974" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Api" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="Myadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Listing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dress_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstModule" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="dress_codes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="remote&#9;ACTION&#9;RemoteServersViewToolbar" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\view\frontend" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\Controller\Adminhtml\LouiseAdmin" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\Api\Data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\view\adminhtml\layout" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\Controller\Adminhtml" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\etc\adminhtml" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\Model" />
+      <recent name="C:\Users\lbecdeli\Documents\Projets\Formation Magento\dress_codes\FirstModule\etc\frontend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lbecdeli\AppData\Roaming\Subversion</configuration>
+    <option name="sshUserName" value="sshMagento2@bourgeon-mutu03.sysnove.net" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb3d242-6c90-4aa9-a3fe-4952b78aad14" name="Default Changelist" comment="" />
+      <created>1560265212068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560265212068</updated>
+      <workItem from="1560265213437" duration="3294000" />
+      <workItem from="1560322330553" duration="8406000" />
+      <workItem from="1560334907406" duration="513000" />
+      <workItem from="1560335485931" duration="11090000" />
+      <workItem from="1560349854090" duration="10013000" />
+      <workItem from="1560413573411" duration="870000" />
+      <workItem from="1560414478919" duration="1271000" />
+      <workItem from="1560415785821" duration="28315000" />
+      <workItem from="1560504529560" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63789000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18923241" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Statistic" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49946696" weight="0.3263965" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="5" sideWeight="0.49733475" weight="0.13123645" />
+      <window_info anchor="bottom" id="SonarLint" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Remote Host" order="0" visible="true" weight="0.2739872" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32889125" />
+      <window_info anchor="right" id="Jenkins" order="2" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.18954249" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Statistic" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49946696" weight="0.3263965" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="5" sideWeight="0.49733475" weight="0.13123645" />
+      <window_info anchor="bottom" id="SonarLint" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info active="true" anchor="right" id="Remote Host" order="0" visible="true" weight="0.27450982" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32889125" />
+      <window_info anchor="right" id="Jenkins" order="2" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/view/layout/louise_firstmodule_listing.xml" />
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/view/templates/test/page.phtml" />
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Louise/FirstModule/view/templates/test/page.phtml" />
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/etc/frontend/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/Controller/Listing/Index.php" />
+    <entry file="file://$PROJECT_DIR$/Louise/FirstModule/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Controller/Index.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Model/ResourceModel/Objet.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Model/ResourceModel/Objet/Collection.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Plugin/MonObjet.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Model/Rewrite/Page.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/frontend/di.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/db_schema.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Model/Objet.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Model/ObjetRepository.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/webapi.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Api/Data/ObjetInterface.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Api/ObjetRepositoryInterface.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/config.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Helper/Data.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Block/ProductList.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Block/CreateObject.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Controller/Form/Post.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Controller/Listing/Index.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/acl.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/di.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/adminhtml/system.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/adminhtml/layout/louisemodule_myadmin_index.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/Controller/Adminhtml/Myadmin/Index.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/web/css/dresscodes_original_test.css" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/registration.php" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/etc/frontend/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/frontend/templates/test/form.phtml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/i18n/fr_FR.csv" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/frontend/layout/louisemodule_listing_index.xml" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/frontend/web/css/louise_module_general.css" />
+    <entry file="file://$PROJECT_DIR$/FirstModule/view/frontend/templates/test/page.phtml" />
+  </component>
+</project>

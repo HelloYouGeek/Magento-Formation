@@ -1,0 +1,46 @@
+<div>
+    <p>
+        Ici il y a un formulaire
+    </p>
+
+    <form class="form comment"
+          action="<?= $block->escapeUrl($block->getFormAction()) ?>"
+          id="contact-form"
+          method="post"
+          data-hasrequired="<?= $block->escapeHtmlAttr(__('* Required Fields')) ?>"
+          data-mage-init='{"validation":{}}'>
+        <fieldset class="fieldset">
+            <div class="field title required">
+                <label class="label" for="title"><span>Title</span></label>
+                <div class="control">
+                    <input name="title" id="title"
+                           title="Title"
+                           value=""
+                           class="input-text"
+                           type="text"
+                           data-validate="{required:true}"/>
+                </div>
+            </div>
+            <div class="field content required">
+                <label class="label" for="content"><span>Content</span></label>
+                <div class="control">
+                    <input name="content"
+                           id="content"
+                           title="Content"
+                           value=""
+                           class="input-text"
+                           type="text"
+                           data-validate="{required:true}"/>
+                </div>
+            </div>
+        </fieldset>
+        <div class="actions-toolbar">
+            <div class="primary">
+                <input type="hidden" name="hideit" id="hideit" value="" />
+                <button type="submit" title="Submit" class="action submit primary">
+                    <span>Créer un commentaire</span>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
